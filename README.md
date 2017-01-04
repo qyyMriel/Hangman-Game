@@ -2,7 +2,14 @@
 This is an implementation of Hangman Game
 
 ## Description
-This project is to test your healthy state through your height, weight, and pulse and oximeter data. User can type their height and weight through LCD screen. Also, they should put their finger on the SpO2 sensor, we will get the pulse and oximeter data through the sensor. Finally, the LCD screen will show the result of the health state according to these data (weight, height, sensor data) we get.
+Overview: Hangman is a game ,which is gussing words from the dictionary,
+is a paper and pencil guessing game for two or more players. The players must guess the words letter by letter or number which occurs in the word. The players can win the game when figuring out all the letters in the word successfully.For this game, there are only 6 chances until the hangman die.
+
+##Play the Game
+Go to corresponding directory and compile, run the program:
+javac HangmanGUI.java
+java HangmanGUI
+
 ##Demo picture
 * Initial State of LCD screen
 * Adjust the weight and height manually
