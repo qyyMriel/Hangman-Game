@@ -15,4 +15,4 @@ java HangmanGUI
 * Adjust the weight and height manually
 * Type start, it will show the health state
 
-![Image of initial state](https://github.com/qyyMriel/Hangman-Game/demoPic.png)
+![Image of initial state](https://github.com/qyyMriel/Hangman-Game/blob/master/demoPic.png)
