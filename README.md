@@ -16,3 +16,8 @@ java HangmanGUI
 * Type start, it will show the health state
 
 ![Image of initial state](https://github.com/qyyMriel/Hangman-Game/blob/master/demoPic.png)
+
+
+##Quit the Game
+* When you come across the question:”Would you like to play again?”You type n/N
+* Close the frame directly to exit.
